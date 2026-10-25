@@ -1,0 +1,12 @@
+﻿{
+  "Id": "SpellsRecolorMod",
+  "DisplayName": "Spells Recolor Mod",
+  "Author": "",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "SpellsRecolorMod.dll",
+  "EntryMethod": "SpellsRecolorMod.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
